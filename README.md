@@ -20,4 +20,5 @@ Esse projeto tem como objetivo implantar um conjunto de microserviços (**Online
 ---
 
 ## Etapa 1
+• Acessar o repositório <a href="https://github.com/GoogleCloudPlatform/microservices-demo" target="_blank">Google CLoud Platform</a>  
 • 
